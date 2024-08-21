@@ -1,0 +1,7 @@
+.background-image {
+    background-image: url('../images/background.jpg');
+    background-size: cover;    /* 使背景图片覆盖整个元素 */
+    background-position: center; /* 背景图片居中显示 */
+    background-repeat: no-repeat; /* 背景图片不重复 */
+    min-height: 100vh; /* 确保至少为视口的高度 */
+  }
